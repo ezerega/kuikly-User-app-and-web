@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "446368829206",
+    "firebase_url": "https://kuikly-7ae93-default-rtdb.firebaseio.com",
+    "project_id": "kuikly-7ae93",
+    "storage_bucket": "kuikly-7ae93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446368829206:android:11a4dc91442771e6d58a37",
+        "android_client_info": {
+          "package_name": "com.kuikly.delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446368829206-pf0h80a8f3slnd6m9bib2gesp04qrfji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgm-HrYZfxrdi7g_zn6nbDg19e9TE8m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446368829206-pf0h80a8f3slnd6m9bib2gesp04qrfji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446368829206:android:114f16661f849343d58a37",
+        "android_client_info": {
+          "package_name": "com.kuikly.store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446368829206-pf0h80a8f3slnd6m9bib2gesp04qrfji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgm-HrYZfxrdi7g_zn6nbDg19e9TE8m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446368829206-pf0h80a8f3slnd6m9bib2gesp04qrfji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446368829206:android:102f73b9f24257fad58a37",
+        "android_client_info": {
+          "package_name": "com.kuikly.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446368829206-pf0h80a8f3slnd6m9bib2gesp04qrfji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgm-HrYZfxrdi7g_zn6nbDg19e9TE8m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446368829206-pf0h80a8f3slnd6m9bib2gesp04qrfji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
